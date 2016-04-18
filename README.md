@@ -1,7 +1,8 @@
 # Shelter Animal Outcomes
 
-This kaggle competition utilizes a dataset of intake information from the Austin Animal Center 
-to predict the outcome for each animal delivered to the shelter.
+This [kaggle competition](https://www.kaggle.com/c/shelter-animal-outcomes) utilizes a dataset 
+of intake information from the Austin Animal Center to predict the outcome for each 
+animal delivered to the shelter.
 
 Possible outcomes are: Adoption, Died, Euthanasia, Return to owner, Transfer.
 
@@ -13,3 +14,5 @@ Since the data size is relatively small, training was done on a late 2013 Macboo
 
 The dates of this kaggle competition are March 21, 2016 through Jul 31, 2016. 
 There are no points or tiers awarded.
+
+[Results of this analysis](https://www.kaggle.com/dbricare/results).

@@ -88,4 +88,4 @@ ENV/
 .ropeproject
 
 # Ignore datafiles
-.csv
+*.csv

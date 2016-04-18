@@ -7,7 +7,7 @@ animal delivered to the shelter.
 Possible outcomes are: Adoption, Died, Euthanasia, Return to owner, Transfer.
 
 The jupyter notebooks in this repository contain exploratory analysis as well as a 
-machine learning model based on a gradient boosting machine to make outcome predictions. 
+gradient boosting machine to make outcome predictions. 
 This model is optimized to reduce the multiclass logarithmic loss.
 
 Since the data size is relatively small, training was done on a late 2013 Macbook Pro.

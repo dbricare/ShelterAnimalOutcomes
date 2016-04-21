@@ -1,6 +1,7 @@
 # Shelter Animal Outcomes
 
 [Exploratory analysis](https://github.com/dbricare/ShelterAnimalOutcomes/blob/master/exploreshelter.ipynb)
+
 [Machine learning](https://github.com/dbricare/ShelterAnimalOutcomes/blob/master/mlshelter-rev1.ipynb)
 
 This [kaggle competition](https://www.kaggle.com/c/shelter-animal-outcomes) utilizes a dataset 
